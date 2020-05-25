@@ -48,6 +48,16 @@ With the feature of _layers_, charts can be grouped, nested or linked to do expl
 $ npm install @antv/g2plot
 ```
 
+#### You can load directly from CDNJS. For example:
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/g2plot/{{version}}/g2plot.js"></script>
+```
+
+For the minified version:
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/g2plot/{{version}}/g2plot.min.js"></script>
+```
+
 ## Usage
 
 <img src="https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*37siRJftYDIAAAAAAAAAAABkARQnAQ" />
